@@ -1,0 +1,123 @@
+html {
+  height: 200%;
+}
+
+body{
+    /*background-image: url(background.png);*/
+    background-color: #FF7F50;
+    background-size: cover;
+    background-attachment: scroll;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    background-image: url("chaise_background.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    /*text-shadow: 3px 3px 11px rgba(150, 150, 150, 0.5);*/
+}
+
+
+
+h1{
+    text-align: right;
+    position: relative;
+    top: 40px;
+    width: 90%;
+    color: #F5F5DC;
+    display: inline-block;
+    font-size: 30px;
+    margin: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+     /*border: 1px solid black;*/
+     position: relative;
+     display: inline-block;
+     text-align: right;
+     width: 90%;
+     font-size: 120px;
+     padding-bottom: 20px;
+     padding-top: 3px;
+     color: #F5F5DC;
+     right: 10px;
+     left: 10px;
+     margin: 0px;
+     border-radius: 3px;
+     font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+     position: relative;
+     display: inline-block;
+     text-align: left;
+     width: 80%;
+     font-size: 30px;
+     padding-bottom: 5px;
+     padding-top: 3px;
+     color: white;
+     right: 10px;
+     left: 10px;
+     margin: 0px;
+     border-radius: 3px;
+     font-family: 'Montserrat', sans-serif;
+}
+
+#titlemydeco{
+    position: relative;
+    top: 100px;
+}
+
+p{
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+#acheter{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    display: inline-block;
+    color: #EEE8AA;
+}
+
+#connection{
+    position: relative;
+    top: 10px;
+}
+
+#login{
+    position: relative;
+    color: black;
+    display: block;
+    font-size: 20px;
+    text-align: right;
+    width: 98%;
+}
+
+
+a{
+    text-decoration: none;
+    color: #EEE8AA;
+}
+
+#basdepage{
+    position: fixed;
+    bottom: 10px;
+    left: 0px;
+    right: 0px;
+}
+#ours{
+    bottom: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 100;
+    color: #FFF;
+    padding-bottom: 3px;
+}
+
+#questions{
+    position: relative;
+    top: 400px;
+}
